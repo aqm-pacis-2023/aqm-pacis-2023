@@ -1,0 +1,6 @@
+#define FIRE_HOST ""
+#define FIRE_AUTH ""
+#define WIFI_SSID ""
+#define WIFI_PASS ""
+#define USER_NAME ""
+#define USER_PASS ""
